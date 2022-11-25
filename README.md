@@ -73,23 +73,27 @@ I conducted an additional anaylysis of the Yale School of Art website. The Yale 
 Though this experiment is certainly impressive and makes a bold statement to users that come across the site, the mis-matched nature of the website ultimately detracts from its usability in a variety of ways. Key issues within Visibility of System Status, Consistency and Standards, and Aesthetic and Minimalist Design usability heuristics for user interface design all point to issues with the site being too busy and disorganized. The site pages lack clear navigation and information grouping that makes it difficult to have a clear, consistent user experience. Instead, coupled with error message issues, the site becomes difficult and frustrating to use to access information. The Yale School of Art should focus key improvements to centralize on a core design and more organized information, simplifying the site to ensure that users are able to more easily navigate it without being overwhelmed or distracted.
 
 
-Find the full evaluation [here](https://github.com/patrickkhoury11/DHS-A1-Hueristic/tree/main/patrickkhoury/DH110/heuristicevaluation)
+#### Find the full evaluation [here](https://github.com/patrickkhoury11/DHS-A1-Hueristic/tree/main/patrickkhoury/DH110/heuristicevaluation)
 
 
 ## Usability Testing
 
-INTRO GOES HERE NEED TO WRITE
+The purpose of Usability Testing (UT) is to identify possible pain points of the tested product/design, and consider the thoughts and difficulties of the user to be able to assess the efficiency, effectiveness, and satisfaction of the product or design. Effectiveness is measured through accuracy and completeness with which users achieve specified goals. Efficiency is determined by the time and resources expended in relation to the accuracy and completeness with which users achieve goals. Finally, satisfaction is measured through a Likert scale where the participant grades his/her attitudes and comfort levels towards the product, whether it be positive or negative. The core of ux design is design for the user. Inherently, testing the product/design with the users is crucial. UT serves a variety of purposes such as informing design, eliminating frustration, and improving profitability. It helps the creator identify design/product issues, while directing them to allocate the proper amount of resources proportional to the severity of the issue. Furthermore, it reduces the costs of servicing the design/product. It is always better to do a UT test rather than nothing, as the benefits are immense. I will be conducting a UT, testing my participant on the highest severity issues in the heuristic evaluation I conducted last week, of The Department of Economic and Social Affairs (from now on I'll abbreviate to DESA) Sustainable Development website ( https://sdgs.un.org/ ). I will do so by asking the user to complete three tasks and hopefully uncover the issues I determined with the website in the heuristic evaluation last week. I will ask the user a variety of different questions and record insight while he/she is participating in the UT.
 
-Severe usability issues I found within the _____ site from my heuristic evaluation:
+Severe usability issues I found within the DESA Sustainable Develepment site from my heuristic evaluation:
 - Faulty Search Bar
 - No Help Page/FAQ
 - Inconsistent Pages
 - Gap in Match Between System and the Real World
 
-Find the full Usability Test [here](https://github.com/patrickkhoury11/DH110-a2-pilot-ut)
-[Usability Test Video Youtube Link](https://youtu.be/_sK8qYZVGpk)
-[Usability Test Video Google Drive Link](https://drive.google.com/file/d/1JKIkBLc0IrmFjmH_Qzn_EVcD-fUfoW7C/view?usp=sharing)
+### Link to online survey:
+[Moderator Script and Participant Survey](https://docs.google.com/forms/d/e/1FAIpQLSfsuEhaCOmYYU27fxbJnBUxGWZ8s4q4AER4zsILIpnkA0vYSw/viewform?usp=sharing)
 
+[Collaborator View for Dr. Cho](https://docs.google.com/forms/d/1IMpxrTO5W5zfhciXYe9-8c_dK2U9DyDufTRhsYFrSrU/edit)
+
+### Link to pilot UT video:
+[Youtube Link](https://youtu.be/_sK8qYZVGpk)
+[Google Drive Link](https://drive.google.com/file/d/1JKIkBLc0IrmFjmH_Qzn_EVcD-fUfoW7C/view?usp=sharing)
 
 ## UX Storytelling - User Personas & Scenarios
 
