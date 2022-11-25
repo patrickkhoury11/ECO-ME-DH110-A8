@@ -45,7 +45,7 @@ INTRODUCTION PRAGRAPH FOR HEURISTIC EVAL
 
 Find the full evaluation [here](https://github.com/patrickkhoury11/DHS-A1-Hueristic/tree/main/patrickkhoury/DH110/heuristicevaluation)
 
-Takeaways from WEBSITE ONE LINK
+Takeaways from WEBSITE ONE LINK 
 
 ## Usability Testing
 
