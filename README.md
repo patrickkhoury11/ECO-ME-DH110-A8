@@ -100,9 +100,16 @@ Severe usability issues I found within the DESA Sustainable Develepment site fro
 
 UX storytelling is a vital process within an iterative and holistic approach towards human centered design. Through patterns that I have discovered in the aforementioned sections of analysis, I have gained compelling insights that will aid me generate ideas and build prototypes to improve the design and functionality of my product. It will allow me to shift my perspective into that of the user and clearly communicate their critiques and desires. Furthermore, it will allow me to filter any biases I may carry subconsciously, as instead of basing these functions on my own ideas, I am basing them off the suggestions from my targeted users. 
 
-During my research, I created two personas based upon 
+During my research, I created two personas based upon the two key design features I highlighted earlier (Consolidation and Social-Media/Community Aspect). These features bring potential solutions to the three barriers to sustainable living, as defined by previous interview subjects.
 
-Find the full personas and scenarios [here](https://github.com/patrickkhoury11/Assignment4-DH110-Personas-Scenarios/blob/main/README.md)
+#### Alex - The New Kid  
+![wilsonpersona](https://user-images.githubusercontent.com/114698093/197986473-5b0b3b6f-fa09-4eeb-ab9c-cac8788f8d04.png)
+
+![alexempathy](https://user-images.githubusercontent.com/114698093/197983883-4ccdb8a7-7e4d-4398-94ad-cfa3608e4bd7.png)
+
+![Alexmap](https://user-images.githubusercontent.com/114698093/197985461-245ae680-19c2-4c4a-bec4-9c27c47dd0bd.png)
+
+Find the full personas, scenarios, and journey maps [here](https://github.com/patrickkhoury11/Assignment4-DH110-Personas-Scenarios/blob/main/README.md)
 
 REFLECTION
 
@@ -110,7 +117,37 @@ REFLECTION
 
 Low-fidelity prototypes are helpful in enabling early visualization of alternative design solutions, which helps provoke innovation and improvement. Low-fidelity prototypes translate high-level design concepts into testable artifacts, and are especially useful in the early stages in the design process. Low-fidelity testing is always beneficial in the design process, as it is inexpensive, fast, collaborative, and clarifying. Improvements to these prototypes can be made very easily, and users often feel most comfortable suggesting changes during this time, as the product is not yet finished and development hasn’t been completed. Creators can easily iterate the product in real time, as parts of the design can be quickly redone in a few minutes based on consumer comments. The following wireframes will serve as the initial prototype of my product. Through user interactions, it will allow me to begin working through how exactly the user will interact with the application that I am designing and give me insightful feedback on how to optimize this process.
 
+### Wireframes
+The following wireframes (pdf version linked [here](https://user-images.githubusercontent.com/114698093/199420376-5efaf300-243d-408d-8975-b2fc1b30b94e.png) serve as the foundation of the application. The five wireframes below represent the five main naviagtion tabs within the application. These wireframes are the hub of all naviagtion and task completion within the app.
 
+![image](https://user-images.githubusercontent.com/114698093/199420376-5efaf300-243d-408d-8975-b2fc1b30b94e.png)
+
+*From left to right:*
+* Home page: This is the page where all posts from accounts the user follows will appear. Furthermore, environmental facts will appear on this page. The user may search for accounts, direct message other users, turn on/off post notifications, and create posts from  this page.
+* Shop: This is where the user can buy or sell second-hand or refurbished items. The user can search for or save any particular items they like. They may also leave reviews for items they have bought.
+* Rides: This is where the user can carpool or commute group to a destination. Carpooling is used to get from Point A to Point B whenever the user needs. Commute groups are used for recurring rides to work, school, or wherever else the user's commute might take them. 
+* Events: This is where the user can create or sign up for environmental events. Users are able to save events, invite their friends, or get any additional information they may need in this page. There is also a search and filter feature available.
+* Profile: This is where the user can view or edit how their profile looks to others utilizing the app. Users' profile picture, bio, link, posts, etc are all present in this page. 
+
+### Persona-Based Tasks
+I created two personas in the previous assignment based on my findings from my interviews and analysis. The story of each persona from the previous step will be presented below. I also created key scenarios which illustrate a different activity/task to accomplish a feature inspired by the users’ personas. 
+
+#### Task 1:
+* Alex needs a cheap desk for his apartment after living life in the dorms his freshman year. Alex would like his desk to be second-hand, as his roommate Noah is passionate about sustainable living. Alex does not own a car, so he would like the desk to be in a 5 mile radius from UCSD.
+
+### Initial Wireframe applied in Wireflow 1, Task 1
+![wf1](https://user-images.githubusercontent.com/114698093/199507035-d42d609f-a6e2-403a-b2b9-4c059c7efa58.png)
+
+*Flow Description:* The flow intends for the user to navigate to the shop screen from the home page. Next, the user would have to hit the "Search for anything" button. The user would then search the term "Used desk". After getting to the results page, the user would filter their results by hitting the "Filter" button. They would hit the "Distance" button on the filter menu. Next the user would slide the distance bar to up to 5 miles. The user would then select the "View Items" button. After that, the user would select the item and hit the "Add to Bag" button.
+
+Test User Wireflow 1, Task 1:
+![wfr1](https://user-images.githubusercontent.com/114698093/199508800-d662d9b3-335e-401f-811e-c439ddcd915f.png)
+
+
+Valuable Feedback from the user:
+* "I think it would be more clear if the ends of the bar were labeled "Min" and "Max" or something along those lines. Might also be helpful to have preset mile notches in the bar (like 5, 25, 50, 100 miles) because I don't know how "up to 5 miles" pops up." 
+
+* "When following the recommendation tool, the user was hesitant to filter and sort by ratings. The feature was intended for the user to select specific ratings, for example, only ratings with a 4/5 and 5/5 rating. With this understanding, the user decided not to sort by rating because she wanted to look at all ratings, regardless of how they scored the hotel. After testing, the user asked me if this was the correct interpretation. Additionally, after pressing **Done**, the user expected to return to the list of reviews. The flow instead returned to the information about the hotel. This was an error on my part in how I designed the flow."
 
 ## High-Fidelity Prototype:
 
