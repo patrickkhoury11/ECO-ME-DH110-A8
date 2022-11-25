@@ -78,13 +78,41 @@ Low-fidelity prototypes are helpful in enabling early visualization of alternati
 
 
 
-## High-FIdelity Prototype:
+## High-Fidelity Prototype:
 
 Functioning high-fidelity prototypes serve the purpose of presenting a clear and close representation of the user interface expected in the final version of the product. Conducting testing on the functions and appearance of this prototype allows for necessary feedback. This feedback could catalyze last minute adjustments, validate the effectiveness of the product, or prevent the product from being released due to performance errors. Testing high-fidelity prototypes demonstrate the amount of time users may need to complete each task supported. High-fidelity prototypes offer many pros with very limited cons, thus they are very beneficial to whomever chooses to utilize them.
 
-High-fidelity prototypes to convert the previously created low-fidelity designs into a digitized design with carefully selected graphic variations (i.e. typographic variation, shape variation, color variation, etc). Furthermore, graphic principles such as readability, user comprehension, and general accessibility were also prioritized in this process. The process of digitizing my low-fidelity design was done through the online interface design tool, Figma. The dimensions of the frames for these designs were based on the iPhone 14 Pro Max screen size. I utilized various resources to create the graphic design system, including Google Fonts, Spark, Adobe Color, Material Design, and other online information sources. User interface is vital in meeting user expectations, as the program’s design plays a huge role in its functionality and overall appeal. FIX FIX FIX
 
 
 
 ### Interactive High-Fidelity Prototype
+
+
+
+
+
+## Evaluation and Revision:
+
+SOMETHING AB IMPRESSION TEST
+
+
+High-fidelity prototypes to convert the previously created low-fidelity designs into a digitized design with carefully selected graphic variations (i.e. typographic variation, shape variation, color variation, etc). Furthermore, graphic principles such as readability, user comprehension, and general accessibility were also prioritized in this process. The process of digitizing my low-fidelity design was done through the online interface design tool, Figma. The dimensions of the frames for these designs were based on the iPhone 14 Pro Max screen size. I utilized various resources to create the graphic design system, including Google Fonts, Spark, Adobe Color, Material Design, and other online information sources. User interface is vital in meeting user expectations, as the program’s design plays a huge role in its functionality and overall appeal. FIX FIX FIX
+
+### Impression Test
+
+
+### Cognitive Walkthrough
+
+
+## Pitch Video
+
+
+
+
+## Conclusion and Reclection
+
+
+
+
+
 
