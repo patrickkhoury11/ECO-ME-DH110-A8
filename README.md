@@ -41,5 +41,44 @@ The two following features bring potential solutions to these barriers:
 
 ### Heuristic Evaluation 
 
+INTRODUCTION PRAGRAPH FOR HEURISTIC EVAL
+
+Find the full evaluation [here](https://github.com/patrickkhoury11/DHS-A1-Hueristic/tree/main/patrickkhoury/DH110/heuristicevaluation)
+
+Takeaways from WEBSITE ONE LINK
+
+## Usability Testing
+
+INTRO GOES HERE NEED TO WRITE
+
+Severe usability issues I found within the _____ site from my heuristic evaluation:
+- Faulty Search Bar
+- No Help Page/FAQ
+- Inconsistent Pages
+- Gap in Match Between System and the Real World
+
+Find the full Usability Test [here](https://github.com/patrickkhoury11/DH110-a2-pilot-ut)
+[Usability Test Video Youtube Link](https://youtu.be/_sK8qYZVGpk)
+[Usability Test Video Google Drive Link](https://drive.google.com/file/d/1JKIkBLc0IrmFjmH_Qzn_EVcD-fUfoW7C/view?usp=sharing)
+
+
+## UX Storytelling - User Personas & Scenarios
+
+UX storytelling is a vital process within an iterative and holistic approach towards human centered design. Through patterns that I have discovered in the aforementioned sections of analysis, I have gained compelling insights that will aid me generate ideas and build prototypes to improve the design and functionality of my product. It will allow me to shift my perspective into that of the user and clearly communicate their critiques and desires. Furthermore, it will allow me to filter any biases I may carry subconsciously, as instead of basing these functions on my own ideas, I am basing them off the suggestions from my targeted users. 
+
+During my research, I created two personas based upon 
+
+Find the full personas and scenarios [here](https://github.com/patrickkhoury11/Assignment4-DH110-Personas-Scenarios/blob/main/README.md)
+
+REFLECTION
+
+## Low-FIdelity Prototype:
+
+
+
+
+
+
+## High-FIdelity Prototype:
 
 
