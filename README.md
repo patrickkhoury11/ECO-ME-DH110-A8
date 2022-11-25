@@ -41,11 +41,40 @@ The two following features bring potential solutions to these barriers:
 
 ### Heuristic Evaluation 
 
-INTRODUCTION PRAGRAPH FOR HEURISTIC EVAL
+After defining my design problem and generating ideas for a solution, I analyzed the usability of competitor web/apps using Jakob Nielson’s 10 heuristics. The 10 heuristics are a foundational checklist that the majority of ux designers use in order to communicate the usability issues of a given user interface design. Nielson's 10 rules serve as general rules that seem to describe common properties of usable interfaces. These heuristics are often paired with ratings which evaluate the severity of usability issues. These can be used to provide a rough estimate of the need for additional usability efforts and aid in the process of allocating the most resources to fix the most serious problem. Furthermore, evaluating the strengths and weaknesses of my competitors' design will generate invaluable insight as I begin to create my own. 
+
+### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
+
+| Number | Heuristic | Description |
+|---|---|---|
+| 1 | Visibility of System Status | Users should always be informed about what is going on and should be given appropriate feedback to their actions |
+| 2 | Match Between System and the Real World | Use concepts and language that are familiar and logical to the user |
+| 3 | User Control and Freedom | Allow users to make mistakes; give them options to undo and redo tasks |
+| 4 | Consistency and Standards | Follow conventions and make sure design is consistent across the platform |
+| 5 | Error Prevention | Get rid of error-prone conditions and provide users with safety nets for high-cost errors |
+| 6 | Recognition Rather Than Recall | Minimize user's memory load by giving them suggestions and help in context |
+| 7 | Flexibility and Efficiency of Use | Provide multiple ways to perform a task to make the platform accessible to all users |
+| 8 | Aesthetic and Minimalist Design | Provide only relevant content and features |
+| 9 | Help Users Recognize, Diagnose, and Recover From Errors | Tell users what the problem is and provide suggestions to fix it |
+| 10 | Help and Documentation | Supply users with extra help to complete their tasks |
+
+#### Takeaways from Website 1: [The Department of Economic and Social Affairs Sustainable Development](https://sdgs.un.org/)
+
+The UN Department of Economic and Social Affairs (DESA) Sustainable Development website was not terrible by any means. However, the high standards I upheld for the intergovernmental organization were not met. There were several visibility of system status issues, mainly to do with the search bar. The website used unfamiliar wording and acronyms, and the site suffered from its many usability issues. Some of these issues include a faulty homepage logo, poor naviagation bar choices, no effective back button, etc. Perhaps the most pressing issue is the search bar suggestions. This issue is error inducing and quite frustrating. Not only does it recommend random combinations of numbers, symbols, and letters; but it also does not suggest anything remotely relevant to the topic of the website. Some of these issues could have been mitigated if the creators had implemented a HELP page of FAQ section, however this was not the case. 
+
+#### Takeaways from Website 2: [Global Platform for Sustainable Cities](https://www.thegpsc.org/)
+
+The Global Platform for Sustainable Cities website functions as a key platform to bring together subject matter experts and partner cities that are striving towards improving urban sustainability. It is very apparent on the site that the organization is made up of a vast number of diverse individuals from different backgrounds and locations, which is a strength to their mission, but might manifest in damaging ways to the overall usability of the platform. Ultimately, users are presented with a website that is passable in most user heuristic regards, but performs poorly when it comes to issues of Error Prevention and Error Recognition, Diagnosis, and Recovery; Flexibility and Efficiency of Use; Aesthetic and Minimalist Design; and Help and Documentation. Key concerns within these categories relate to issues with the search bar and newsletter subscription mechanisms, as well as to a design that detracts from usability of the site. For all of its great content, the site lacks proper mechanisms for users to navigate freely and access help should they need it. The Global Platform for Sustainable Cities should focus on simplifying design choices to prioritize readability and revamp the search bar, newsletter subscription box, and implement a help section to improve the site’s utility. All in all, the content of the site is great, but improvements need to be made to guarantee users are able to fully appreciate the vast amount of information provided. 
+
+#### Takeaways from Website 3: [Yale University Art School](https://www.art.yale.edu/)
+
+I conducted an additional anaylysis of the Yale School of Art website. The Yale School of Art website purports to be an “ongoing collaborative experiment in digital publishing and information sharing” by existing as a wiki-esque site that can be edited by any member of the community. This is perhaps the most useful website I analyzed, as evaluating the usability of its collaborative properties are invaluable in creating my collaborative application.
+
+Though this experiment is certainly impressive and makes a bold statement to users that come across the site, the mis-matched nature of the website ultimately detracts from its usability in a variety of ways. Key issues within Visibility of System Status, Consistency and Standards, and Aesthetic and Minimalist Design usability heuristics for user interface design all point to issues with the site being too busy and disorganized. The site pages lack clear navigation and information grouping that makes it difficult to have a clear, consistent user experience. Instead, coupled with error message issues, the site becomes difficult and frustrating to use to access information. The Yale School of Art should focus key improvements to centralize on a core design and more organized information, simplifying the site to ensure that users are able to more easily navigate it without being overwhelmed or distracted.
+
 
 Find the full evaluation [here](https://github.com/patrickkhoury11/DHS-A1-Hueristic/tree/main/patrickkhoury/DH110/heuristicevaluation)
 
-Takeaways from WEBSITE ONE LINK 
 
 ## Usability Testing
 
