@@ -111,7 +111,7 @@ During my research, I created two personas based upon the two key design feature
 
 Find the full personas, scenarios, and journey maps [here](https://github.com/patrickkhoury11/Assignment4-DH110-Personas-Scenarios/blob/main/README.md)
 
-REFLECTION
+
 
 ## Low-FIdelity Prototype:
 
@@ -154,11 +154,32 @@ Valuable Feedback from the user:
 Functioning high-fidelity prototypes serve the purpose of presenting a clear and close representation of the user interface expected in the final version of the product. Conducting testing on the functions and appearance of this prototype allows for necessary feedback. This feedback could catalyze last minute adjustments, validate the effectiveness of the product, or prevent the product from being released due to performance errors. Testing high-fidelity prototypes demonstrate the amount of time users may need to complete each task supported. High-fidelity prototypes offer many pros with very limited cons, thus they are very beneficial to whomever chooses to utilize them.
 
 
+- [Figma Full Design Page](https://www.figma.com/file/bmZ52E8hSogbfnJhyU8JTk/Interface-Design-Page?node-id=0%3A1)
+  - Includes test screens, final iterations, digitized wireframes and wireflow, color contrast check, color wheel, and saved color and text styles.
+
 
 
 ### Interactive High-Fidelity Prototype
 
+I created two interactive prototypes supported by the system. These prototypes were of the tasks previously discussed in the Persona-based tasks section.
 
+Task 1: Shop for a second-hand desk within a 5 mile radius
+- You need a cheap desk for your apartment after living life in the dorms your freshman year. You would like the desk to be second-hand, as your roommate Noah is passionate about sustainable living. You do not own a car, so you would like the desk to be in a 5 mile radius from UCSD.
+
+
+Intro:
+* Red arrows indicate going towards task, yellow arrows indicate going away from task
+![appintro](https://user-images.githubusercontent.com/114698093/202149585-1d20a30e-ff43-4720-8e1d-bc28003e61be.png)
+
+Primary Wireflow:
+* Red arrows indicate going towards task, yellow arrows indicate going away from task
+![main1](https://user-images.githubusercontent.com/114698093/202146897-4b23eaae-ccaa-4918-a70b-61e0e7a82fbd.png)
+
+
+[Figma Wireflow 1 Link](https://www.figma.com/file/pb6gNH5nuFXY8FcN3H9BLG/Task-1-Prototype?node-id=0%3A1&t=PV8G35x1fKMp1woU-0)
+
+
+[Interactive Protype Task 1](https://www.figma.com/proto/pb6gNH5nuFXY8FcN3H9BLG/Task-1-Prototype?node-id=40%3A1668&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A1668)
 
 
 
@@ -171,6 +192,15 @@ High-fidelity prototypes to convert the previously created low-fidelity designs 
 
 ### Impression Test
 
+In order to conduct an impression test for my newly-designed Rides page, I created a two-part survey using Usabilityhub and invited a friend that fits within the target user demographic to take the test. The test-taker recorded her screen and audio commentary while going through the survey, as well as submitted her feedback for the site to compile. The first part of the survey included a 5 second impression test, where my Rides page was displayed to the test-taker for only 5 seconds before asking for a description of what she remembered and what purpose she thought the application could serve. The second part of the survey included a design survey, wherein the test taker was provided with contextual information about the application and was allowed to reference the Rides page while providing feedback. Questions were focused on understanding what design elements the test-taker liked and disliked, as well as what emotions she felt in interacting with the page. In this way, I was able to see what a potential user’s first impressions of the page might be, as well as gain specific feedback on whether the look and feel of the page’s design fit the larger intention behind the application. 
+
+
+#### Five-Second Test Results:
+Link to the Five-Second Impression Test linked [here](https://app.usabilityhub.com/do/94e8ec5b15ef/dda).
+Video file of screen recording and audio commentary linked [here](https://drive.google.com/file/d/19Zx_8kg90X-Rh0u-f3vDsOs4wmYZ5NvZ/view?usp=sharing).
+
+#### Summary of Findings:
+Based on results for the "What is this app used for" question, the top impressions users noted were music, learning, tuning, and reading. It was interesting to see that many users believed the app's purpose was for tuning instruments. I think that this was a common answer because the app name is "TuneMate". Perhaps I should consider exploring other name options for the application, because the word "Tune" might be misleading for the app's purpose. However, "music" and "learning" were the most popular answers, which tells me that the main purpose of the app was conveyed to most users. Based on results for the word/sentence recall question, most users recalled rhythm, reading, fundamentals, and basic. These results demonstrated that the overall lesson names really stood out to users.
 
 ### Cognitive Walkthrough
 
