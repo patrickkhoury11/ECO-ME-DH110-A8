@@ -208,10 +208,10 @@ The Cognitive walkthrough was conducted during class. This was incredibly insigh
 
 Key takeaways/Things to improve on:
 
-One button did not fade upon hovering, whereas the rest did
-Solution: Fix this error by altering the hover interaction on the button to change into the faded variant
-Although my high fidelity prototype passed all of the color contrast checks, one user mentioned that a few colors on one page looked a little too similar in darkness/value
-Solution: I widened the range of contrast between the two colors to address his concern
+* One button did not fade upon hovering, whereas the rest did.
+> *Solution: Fix this error by altering the hover interaction on the button to change into the faded variant.*
+* Although my high fidelity prototype passed all of the color contrast checks, one user mentioned that a few colors on one page looked a little too similar in darkness/value.
+> *Solution: I widened the range of contrast between the two colors to address his concern*
 
 [Link to the presenter form, with questions asked during the Cognitive Walk-Through present](https://forms.gle/grdZKaZfqi8sZrRY6)
 
