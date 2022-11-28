@@ -185,9 +185,6 @@ Primary Wireflow:
 
 ## Evaluation and Revision:
 
-SOMETHING AB IMPRESSION TEST
-
-
 High-fidelity prototypes to convert the previously created low-fidelity designs into a digitized design with carefully selected graphic variations (i.e. typographic variation, shape variation, color variation, etc). Furthermore, graphic principles such as readability, user comprehension, and general accessibility were also prioritized in this process. The process of digitizing my low-fidelity design was done through the online interface design tool, Figma. The dimensions of the frames for these designs were based on the iPhone 14 Pro Max screen size. I utilized various resources to create the graphic design system, including Google Fonts, Spark, Adobe Color, Material Design, and other online information sources. User interface is vital in meeting user expectations, as the program’s design plays a huge role in its functionality and overall appeal. FIX FIX FIX
 
 ### Impression Test
