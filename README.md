@@ -204,6 +204,21 @@ Overall, I was quite pleased with how the impression test and design survey went
 
 ### Cognitive Walkthrough
 
+The Cognitive walkthrough was conducted during class. This was incredibly insightful, as my peers had been working on similar projects and knew exactly what to look for when assessing my own application. I demonstrated the various tasks and walked the participants through each action. The participants then free-roamed around on the application themselves and commented any constructive feedback they had on the figma prototype page. 
+
+Key takeaways/Things to improve on:
+
+One button did not fade upon hovering, whereas the rest did
+Solution: Fix this error by altering the hover interaction on the button to change into the faded variant
+Although my high fidelity prototype passed all of the color contrast checks, one user mentioned that a few colors on one page looked a little too similar in darkness/value
+Solution: I widened the range of contrast between the two colors to address his concern
+
+[Link to the presenter form, with questions asked during the Cognitive Walk-Through present](https://forms.gle/grdZKaZfqi8sZrRY6)
+
+[Link to the survey given to the reviewers of the application](https://forms.gle/kgHHm4TBkEiUbV7d6)
+
+All these evaluations allowed me to alter and eventually perfect my prototype to the version shown above.
+
 
 ## Pitch Video
 
@@ -211,6 +226,16 @@ Overall, I was quite pleased with how the impression test and design survey went
 
 
 ## Conclusion and Refleclection
+
+This class served as my first experience into the fields of UX research and design. This course covered UX design methods, including ethnographic field research, persona-scenario development, information architecture, interface design, prototyping, and usability testing. Through hands-on practice in a human-centered process, I learned how to understand users, how to design interface and interaction for users, and how to evaluate and communicate user experience design. Being new to the space, this class provided me with lots of new experiences, as well as development in many useful hard and soft skills. I learned how to work on github, employ research and evaluation methods such as usability tests and heuristic evaluations, conduct impression tests, design graphic models/interactive high fidelity prototypes in figma, and utilize resources such as Material Design, color contrast, google fonts, etc.
+
+If I had more time, I would focus heavily on the User Experience portion of the design process. I would conduct more usability tests, and focus heavily on methods of contextual inquiries. This would provide me with more insight into the mind of the user, and allow me to better design a system appealing to all demographics within my target audience. I would have preferred taking this course in a semester system environment, as the 10 weeks felt like a flash. However, I do appreciate the strict time constraints native to this course, as it forced me to work quickly and efficiently, preparing me well for any deadlines I will have to meet in the workplace. 
+
+Although I do not intend to pursue a strictly UX/UI occupation, the skills I learned and developed in this course will be invaluable to the career I do want to reach in life. I am a mechanical engineering major and entrepreneurship minor. I hope to later pursue a career involving engineering product development at a start-up or small firm that prioritizes social innovation - in particular, within the sustainability sector, which is an interest that has been fostered by my love of nature. This course provided me with valuable foresight into the product design process, one I will have to replicate in the workplace of engineering product development. Furthermore, this current pitch assignment is extremely relevant to my future, as when I become an engineer, I will have to present my ideas to a larger audience and persuade those around me. 
+
+I believe I was successful in achieving the following objectives and outcomes listed on the syllabus. These objectives include: applying a human-centered-design process, evaluating a user experience design and elaborate related theory and principles in the context, conducting user research in qualitative methods, conducting usability evaluation in quantitative methods, creating user-friendly, easy to use, and accessible (WCAG 2 AA) graphical user interface design, developing interactive prototypes, documenting the design decision-making process, and presenting the creative user experience design 
+
+I loved taking DH110 and am eternally grateful for the knowledge and skills it has provided me with. This course helped fill the gap of knowledge left by my fields of study and has done well to prepare me for my career outside of academia. I am extremely thankful for Dr. Sookie Cho and the class TA for their continued guidance throughout this course. 
 
 
 
