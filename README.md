@@ -2,7 +2,8 @@
 
 ### Patrick Khoury, Digital Humanities 110: UX/UI Design, Fall 2020
 
-> *Credit BLAH BLAH BLAH*
+![naturenature](https://user-images.githubusercontent.com/114698093/204607118-92fc263c-bfee-42dd-8845-afa51ce6f8e7.jpg)
+> *Credit Natalie Parletta*
 
 ## Introduction / About this Project
 
