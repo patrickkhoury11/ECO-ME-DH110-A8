@@ -230,6 +230,7 @@ All these evaluations allowed me to alter and eventually perfect my prototype to
 
 <iframe src="https://drive.google.com/file/d/1EjayOWWidusx930gU5pFZHtjBrNJUBgp/preview" width="640" height="480" allow="autoplay"></iframe>
 
+Link to the Pitch Video [here](https://drive.google.com/file/d/1EjayOWWidusx930gU5pFZHtjBrNJUBgp/preview).
 
 ## Conclusion and Refleclection
 
